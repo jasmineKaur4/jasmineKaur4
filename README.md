@@ -1,17 +1,7 @@
-Hi 👋, I'm Jasmine Kaur
-
-💻 CSE Student | Java Developer | DSA Enthusiast | Full-Stack Developer
-
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=700&lines=Java+Developer;Full-Stack+Web+Developer;DSA+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" /> </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jasmineKaur4&style=for-the-badge&color=blue" alt="Profile Views" /> </p>
-<div style="border-top: 5px solid #30363d;">
-	<hr>
-</div>
+<h1 align="center">Hi 👋, I'm Jasmine Kaur</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=700&lines=CSE+Student;Java+Developer;Full-Stack+(MERN)+Developer;DSA+Enthusiast;Building+Real-World+Projects" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=jasmineKaur4&style=for-the-badge&color=blue" alt="Profile Views" /> </p>
 
 
-
-
+<hr>
 💫 About Me <hr>
 
 🎓 Computer Science Engineering Student
